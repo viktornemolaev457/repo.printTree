@@ -1,0 +1,4 @@
+ case "print":
+                    repo.printTree();
+                    break;
+                case "exit":
